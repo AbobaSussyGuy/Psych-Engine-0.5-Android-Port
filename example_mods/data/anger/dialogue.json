@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "lmfao loser, i won again"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "get real dude"
+		},
+		{
+			"speed": 0.24,
+			"portrait": "sadcat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.435,
+			"portrait": "sadcat",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadcat",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "I've had enough."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh no"
+		}
+	]
+}
