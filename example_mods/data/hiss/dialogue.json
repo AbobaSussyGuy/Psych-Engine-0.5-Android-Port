@@ -1,0 +1,53 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "hiss"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "hisshsihshsihshsishishshishihssihdhdihih"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "wanna rap agaon"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oKAY but im angry and hiss so angry rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}
