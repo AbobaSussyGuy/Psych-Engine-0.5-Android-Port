@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "oh no... they forgetting me",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadcat"
+		},
+		{
+			"expression": "talk",
+			"text": "what the fuck are you like that one dumbass skeleton from coco where if you get forgotten you fucking die or some shit",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "talk",
+			"text": "think of it as the trollge... he originally was a funni goofy guy but then he got forgotten then he jd and is now a serial killer in the meme world killing everyone he can",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "sadcat"
+		},
+		{
+			"expression": "talk",
+			"text": "ok and",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadcat",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "fuck you"
+		}
+	]
+}
