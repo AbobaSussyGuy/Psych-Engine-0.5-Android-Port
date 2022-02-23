@@ -1,0 +1,39 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "huh? why are you here?"
+		},
+		{
+			"speed": 0.005,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "excited",
+			"text": "beep bop bop obopopompemrokdbkuyfikohbtgfn jrgtjorjegtujtrugretjgiejigjirejgirejgiejrigj erjijgeijgeigjeg g g g gg g g  g"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "what"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "can we just rap or some shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh, ok! i'll sing my favorite song."
+		}
+	]
+}
