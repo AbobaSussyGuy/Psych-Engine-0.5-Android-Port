@@ -1,0 +1,10 @@
+{
+	"idle_anim": "flopper",
+	"image": "floppa",
+	"position": [
+		111,
+		40
+	],
+	"scale": 0.5,
+	"confirm_anim": "M Dad Idle"
+}
