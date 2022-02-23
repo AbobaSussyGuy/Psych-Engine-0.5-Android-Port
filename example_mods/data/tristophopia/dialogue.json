@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "sadcat",
+			"boxState": "normal",
+			"expression": "angry",
+			"text": "you know WHAT??!?!??!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": ":bruh:"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadcat",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "JUST DIE ALREADY!!!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nah my man im gonna rap"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadcat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "YOUR FATE IS SEALED."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey, im back from being in that different dimensi- wait sadge how the fuck did you get here?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "sadcat",
+			"boxState": "angry",
+			"expression": "angry",
+			"text": "NOT THE TIME DUMBASS!!!!!!!!!!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "damn"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "rap now"
+		}
+	]
+}
