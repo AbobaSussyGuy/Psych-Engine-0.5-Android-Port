@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-120,
+				363
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "floppa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				147
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "floppa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				139
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "floppa right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-130
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "floppa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-177,
+				375
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "floppa up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/floppa edgy",
+	"position": [
+		-200,
+		500
+	],
+	"healthicon": "floppissedasfuck",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		20,
+		0
+	],
+	"camera_position": [
+		10,
+		80
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

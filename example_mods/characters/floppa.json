@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				13
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "floppa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				128,
+				-33
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "floppa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-199,
+				-61
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "floppa right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-222
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "floppa down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-177,
+				150
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "floppa up",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/floppa",
+	"position": [
+		-200,
+		410
+	],
+	"healthicon": "floppa",
+	"flip_x": false,
+	"healthbar_colors": [
+		95,
+		245,
+		142
+	],
+	"camera_position": [
+		20,
+		250
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}

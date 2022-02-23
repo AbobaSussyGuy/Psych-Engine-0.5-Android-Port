@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				-171,
+				-67
+			],
+			"anim": "idle",
+			"fps": 24,
+			"name": "angry floppa idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-5,
+				-23
+			],
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "angry floppa left",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-177,
+				130
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "angry floppa up",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-239,
+				-31
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "angry floppa right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-157,
+				-222
+			],
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "angry floppa down",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/floppa angry",
+	"position": [
+		-200,
+		460
+	],
+	"healthicon": "floppapissed",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		165,
+		102
+	],
+	"camera_position": [
+		-20,
+		210
+	],
+	"sing_duration": 4,
+	"scale": 1.1
+}
