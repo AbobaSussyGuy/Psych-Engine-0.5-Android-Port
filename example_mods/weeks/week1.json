@@ -1,0 +1,57 @@
+{
+	"storyName": "flop fo no hoe",
+	"hideFreeplay": false,
+	"weekBackground": "floppa",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"floppa",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Flop Bop",
+			"floppa",
+			[
+				95,
+				255,
+				253
+			]
+		],
+		[
+			"Hiss",
+			"floppa",
+			[
+				135,
+				0,
+				100
+			]
+		],
+		[
+			"Unhappy Flop",
+			"floppapissed",
+			[
+				135,
+				0,
+				40
+			]
+		],
+		[
+			"Ailurophobia",
+			"floppissedasfuck",
+			[
+				255,
+				0,
+				0
+			]
+		]
+	],
+	"weekName": "flop"
+}

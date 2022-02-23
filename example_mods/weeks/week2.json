@@ -1,0 +1,57 @@
+{
+	"storyName": "cry",
+	"hideFreeplay": false,
+	"weekBackground": "floppa",
+	"weekBefore": "week1",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Sadness",
+			"sadcat",
+			[
+				0,
+				0,
+				13
+			]
+		],
+		[
+			"Forgotten",
+			"sadcat",
+			[
+				0,
+				0,
+				33
+			]
+		],
+		[
+			"Anger",
+			"pissedcat",
+			[
+				255,
+				20,
+				73
+			]
+		],
+		[
+			"Tristophobia",
+			"pissedcat",
+			[
+				126,
+				233,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"sadcat",
+		"bf",
+		"gf"
+	],
+	"weekName": "sadness"
+}

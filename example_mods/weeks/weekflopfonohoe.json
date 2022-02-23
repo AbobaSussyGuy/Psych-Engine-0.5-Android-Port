@@ -1,0 +1,30 @@
+{
+	"songs": [
+		[
+			"Flop Fo No Hoe",
+			"floppa",
+			[
+				255,
+				153,
+				253
+			]
+		]
+	],
+	"hideFreeplay": false,
+	"weekBackground": "floppa",
+	"weekCharacters": [
+		"floppa",
+		"bf",
+		"gf"
+	],
+	"storyName": "flop fo no hoe",
+	"weekName": "flop fo no hoe",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"hideStoryMode": true,
+	"weekBefore": "tutorial",
+	"startUnlocked": true
+}
