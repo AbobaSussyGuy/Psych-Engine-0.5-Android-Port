@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floppa angry.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="angry floppa down0000" x="0" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0001" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0002" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0003" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0004" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0005" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0006" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0007" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0008" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa down0009" x="309" y="0" width="309" height="43"/>
+	<SubTexture name="angry floppa idle0000" x="618" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0001" x="851" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0002" x="1084" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0003" x="1317" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0004" x="1550" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0005" x="1783" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0006" x="1783" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0007" x="1783" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0008" x="1783" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa idle0009" x="1783" y="0" width="233" height="173"/>
+	<SubTexture name="angry floppa left0000" x="0" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0001" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0002" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0003" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0004" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0005" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0006" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0007" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0008" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa left0009" x="359" y="173" width="359" height="207"/>
+	<SubTexture name="angry floppa right0000" x="718" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0001" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0002" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0003" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0004" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0005" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0006" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0007" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0008" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa right0009" x="1085" y="173" width="367" height="207"/>
+	<SubTexture name="angry floppa up0000" x="1452" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0001" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0002" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0003" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0004" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0005" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0006" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0007" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0008" x="1693" y="173" width="241" height="351"/>
+	<SubTexture name="angry floppa up0009" x="1693" y="173" width="241" height="351"/>
+</TextureAtlas>

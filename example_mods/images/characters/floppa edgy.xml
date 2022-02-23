@@ -1,0 +1,55 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="floppa edgy.png">
+	<!-- Created with Adobe Animate version 21.0.0.35450 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="floppa down0000" x="0" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0001" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0002" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0003" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0004" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0005" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0006" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0007" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0008" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa down0009" x="341" y="0" width="341" height="107"/>
+	<SubTexture name="floppa idle0000" x="682" y="0" width="539" height="547"/>
+	<SubTexture name="floppa idle0001" x="1221" y="0" width="539" height="547"/>
+	<SubTexture name="floppa idle0002" x="0" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0003" x="539" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0004" x="1078" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0005" x="1078" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0006" x="1078" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0007" x="1078" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0008" x="1078" y="547" width="539" height="547"/>
+	<SubTexture name="floppa idle0009" x="1078" y="547" width="539" height="547"/>
+	<SubTexture name="floppa left0000" x="0" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0001" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0002" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0003" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0004" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0005" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0006" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0007" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0008" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa left0009" x="485" y="1094" width="485" height="351"/>
+	<SubTexture name="floppa right0000" x="970" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0001" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0002" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0003" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0004" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0005" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0006" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0007" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0008" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa right0009" x="1505" y="1094" width="535" height="351"/>
+	<SubTexture name="floppa up0000" x="0" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0001" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0002" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0003" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0004" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0005" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0006" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0007" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0008" x="353" y="1445" width="353" height="557"/>
+	<SubTexture name="floppa up0009" x="353" y="1445" width="353" height="557"/>
+</TextureAtlas>
