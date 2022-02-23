@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "THATS IT BRO"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh no"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "IM A"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "oh god"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "UNHAPPY FLOP"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "OHNOohnohonohonohonohnoohony52uhirwejfghwfecojgknvwrieodiklgm,nbigejkjdkioujerwshdr9igojwhres9oidkjgtvwi4teoisjfdkhgbn htughtuhguthg rg r g rgf g r g r g r w  gte rg t"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "die"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "no ima rap instead"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		}
+	]
+}

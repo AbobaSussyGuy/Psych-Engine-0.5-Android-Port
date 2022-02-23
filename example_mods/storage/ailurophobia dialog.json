@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.315,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "..."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh no"
+		},
+		{
+			"speed": 0.43,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": ". . ."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh no floppa is EDGY"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "angry",
+			"expression": "talk",
+			"text": "DIE!!!!!!!!!!!!!!!!!!1111111u3euwisjktufi23rjwnehfweuiojwckefscyofuij3rwe  e g  r gs gr wgwe thtbgrdhdbkegdnhfuhigbkjvrgdivjfduixcjghu8vrfidsjugivwfhdsux8igj8fdijuugujvh ewguvrefshdgiefhdg g  g gg g  g g g   g  g gg e gwe g t  get sg etst g"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "no im oijng to rap i told you already"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "floppa",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shut up im going to kill you with my power of flop wait rappign mightmake me happy and i will not demolish you ok?yoyoyuyooyoyoyiyiyoibgefocekhfweioj uhyt4ufdijb u8tfioijvui got that?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "yea"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "now lets rap battle while you are pissed ajd edgy"
+		}
+	]
+}
