@@ -1,0 +1,67 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "nice! that was very go-"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "popcat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "shocked",
+			"text": "oh shit"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "popcat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pop pop pop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "shut the fuck up"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "shit, im just gonna leave"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.03,
+			"portrait": "popcat",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "pop pop pop pop pop pop pop pop pop pop pop"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "SHUT UP"
+		}
+	]
+}
