@@ -1,0 +1,60 @@
+{
+	"dialogue": [
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "hey that was pretty good!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "pissed",
+			"text": "that was fucking easy my man"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "gf",
+			"boxState": "normal",
+			"expression": "confused",
+			"text": "BF, maybe you should be a little nicer this time."
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "ok"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "i'll make this song about my favorite place!"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "could you also like, pick up the pace?"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "bf",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "that last song was pretty easy"
+		},
+		{
+			"speed": 0.05,
+			"portrait": "he",
+			"boxState": "normal",
+			"expression": "talk",
+			"text": "alright!"
+		}
+	]
+}
